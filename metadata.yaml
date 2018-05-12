@@ -22,6 +22,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Gil_Vicente
     - http://en.wikipedia.org/wiki/Gil_Vicente
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24129#Mon-logo-do-Vaqueiro
 gutenberg_bookshelf: PT Poesia
 gutenberg_issued: '2008-01-02'
 gutenberg_type: Text
